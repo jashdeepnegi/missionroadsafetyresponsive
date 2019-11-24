@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Mission Road Safety - NGO's Portal Signup</title>
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" >
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <link rel="stylesheet" href="form.css" >
+       
+            <script>
+var check = function() {
+   if (document.getElementById('password').value == "")
+   {
+     document.getElementById('message').innerHTML = '';
+     document.getElementById("subbtn").disabled = true;
+   }
+   else
+  if (document.getElementById('password').value ==
+    document.getElementById('confirm_password').value) {
+    document.getElementById('message').style.color = 'green';
+    document.getElementById('message').innerHTML = 'PASSWORDS MATCH';
+    document.getElementById("subbtn").disabled = false;
+
+  } else {
+    document.getElementById('message').style.color = 'red';
+    document.getElementById('message').innerHTML = 'PASSWORDS DO NOT MATCH';
+    document.getElementById("subbtn").disabled = true;
+  }
+}
+    </script>
+           </head>
+    <body >
+        <div class="container">
+            <div class="row">
+              <div class="col-md-6 col-md-offset-3">
+
+                
+                    <h3 align="center">Government of India<br>
+Ministry of Road Transport and Highways</h3>
+                    <h4 align="center"><b><font color="#3d5998"> Portal (Sign Up)</font></b></h4><hr/>
+                    <form action="verify/otpverification.php" method="POST"   id="reused_form" >
+
+<b>Head of Organization</b>
+ <div class="form-group">
+        <input type="text"  class="form-control"  name="pername" placeholder="Name of Head or Organization" required>
+          
+    </div>
+
+    <b>Name of Organization</b>
+ <div class="form-group">
+        <input type="text"  class="form-control" name="orgname" placeholder="Name of  Organization" required >
+          
+    </div>
+
+     <b>Organization Regn No. (if available)</b>
+ <div class="form-group">
+        <input type="text"  class="form-control"  name="orgregno" placeholder="Organization Regn No."  >
+          
+    </div>
+<hr/>
+<b>Mobile Number (OTP will be sent)</b>
+  <div class="form-group">
+    <table width="100%">
+<tr>
+      <td style="width: 10%;">
+      +91 - </td> <td><input type="tel" style="width: 100%;" minlength="10" maxlength="10 "  class="form-control" id="name" name="mobno" placeholder="Mobile Number" required ></td></tr>
+          
+          </table>
+    </div>
+
+<b>Email Id</b>
+  <div class="form-group">
+        <input type="email"  class="form-control"  name="emailid" placeholder="Registered email id" required >
+          
+    </div>
+   
+    <b>Password</b>
+     <div class="form-group">
+        <input type="password"  class="form-control" id="password" name="pass" minlength="6" placeholder="Password" onkeyup='check();'   required >
+          
+    </div>
+
+<b>Confirm Password</b>
+     <div class="form-group">
+        <input type="password"  class="form-control" id="confirm_password" name="pass2" minlength="6" placeholder="Confirm Password" onkeyup='check();'   required >
+          
+    </div>
+    <b>
+  <span id='message'></span></b>
+<hr/>
+
+    
+                      <p>
+                        <input type="submit" class="btn btn-lg btn-success pull-left" id="subbtn"  style="min-width:200px;" value="Sign Up"> <br><br>
+</p>
+<p align="right"><a href="login.html">Go to Login</a> | <a href="index.html">Home</a></p>
+                     
+                        <hr/>
+
+                 <p align="center"><img src="https://road-safety.co.in/assets/img/logo.png" height="40px"><br>Developed and Maintained by <a href="https://road-safety.co.in" target="_blank">IRSC 2018</a></p>
+                    </form>
+                 
+                </div>
+            </div>
+       </div>
+    </body>
+
+</html>

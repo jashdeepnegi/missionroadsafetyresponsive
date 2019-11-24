@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="d3.js"></script>
+<script src="d3pie.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-1.10.0.min.js"></script>
+        <script type="text/javascript" src="jquery-csv.js"></script>
+</head>
+<body>
+
+<div id="pieChart"></div>
+                
+<script>
+var pie = null;
+function display(value1,value2,value3,value4){
+
+    pie = new d3pie("pieChart", {
+    "header": {
+        "title": {
+            "text": "Reason",
+            "fontSize": 18,
+            "font": "courier"
+        },
+        "subtitle": {
+            "text": "for crashes.",
+            "color": "#777777",
+            "fontSize": 10,
+            "font": "courier"
+        },
+        "location": "pie-center",
+        "titleSubtitlePadding": 10
+    },
+    "size": {
+        "canvasHeight": 280,
+        "canvasWidth": 340,
+        "pieInnerRadius": "65%",
+        "pieOuterRadius": "55%"
+    },
+    "data": {
+        "sortOrder": "label-desc",
+        "content": [
+            {
+                "label": "Disregarding Traffic Signals",
+                "value": parseInt(value1),
+                "color": "#d7dad5"
+            },
+            {
+                "label": "Overspeeding",
+                "value": parseInt(value2),
+                "color": "#2383c1"
+            },
+            {
+                "label": "Drunken Driving",
+                "value": parseInt(value3),
+                "color": "#e92222"
+            },
+            {
+                "label": "Improper Roads",
+                "value": parseInt(value4),
+                "color": "#59f222"  
+            }
+        ]
+    },
+    "labels": {
+        "outer": {
+            "format": "label-percentage2",
+            "pieDistance": 7
+        },
+        "inner": {
+            "format": "none"
+        },
+        "mainLabel": {
+            "fontSize": 11
+        },
+        "percentage": {
+            "color": "#777777",
+            "fontSize": 11,
+            "decimalPlaces": 0
+        },
+        "value": {
+            "color": "#cccc43",
+            "fontSize": 11
+        },
+        
+    },
+    "effects": {
+        "pullOutSegmentOnClick": {
+            "effect": "linear",
+            "speed": 400,
+            "size": 8
+        }
+    },
+    "misc": {
+        "colors": {
+            "segmentStroke": "#000000"
+        }
+    }
+});
+}
+$(document).ready(function(e) {
+    $.ajax("./data3.csv").done(function(result) {
+        var data = result;
+        var arr = $.csv.toArrays(data);
+        var value = arr[20][7];
+        var stateArr = ['.ap','.ar','.am','.bh','.ct','.go','.gj','.hy','.hp','.jk','.jh','.kk','.kl','.mp','.mh','.mani','.mgh','.mz','.ng','.od','.pj','.rj','.sk','.tn','.tl','.tr','.uk','.up','.wb','.an','.ch','.dn','.dd','.dl','.lk','#g4249'];
+        $('.ap').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[1][0],arr[1][6],arr[1][9],arr[1][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.ar').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[2][0],arr[2][6],arr[2][9],arr[2][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.am').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[3][0],arr[3][6],arr[3][9],arr[3][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.bh').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[4][0],arr[4][6],arr[4][9],arr[4][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.ct').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[5][0],arr[5][6],arr[5][9],arr[5][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.go').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[6][0],arr[6][6],arr[6][9],arr[6][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.gj').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[7][0],arr[7][6],arr[7][9],arr[7][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.hy').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[8][0],arr[8][6],arr[8][9],arr[8][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.hp').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[9][0],arr[9][6],arr[9][9],arr[9][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.jk').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[10][0],arr[10][6],arr[10][9],arr[10][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.jh').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[11][0],arr[11][6],arr[11][9],arr[11][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.kk').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[12][0],arr[12][6],arr[12][9],arr[12][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.kl').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[13][0],arr[13][6],arr[13][9],arr[13][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.mp').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[14][0],arr[14][6],arr[14][9],arr[14][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.mh').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[15][0],arr[15][6],arr[15][9],arr[15][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.mani').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[16][0],arr[16][6],arr[16][9],arr[16][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.mgh').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[17][0],arr[17][6],arr[17][9],arr[17][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.mz').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[18][0],arr[18][6],arr[18][9],arr[18][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.ng').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[19][0],arr[19][6],arr[19][9],arr[19][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.od').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[20][0],arr[20][6],arr[20][9],arr[20][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });   
+        $('.pj').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[21][0],arr[21][6],arr[21][9],arr[21][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.rj').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[22][0],arr[22][6],arr[22][9],arr[22][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.sk').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[23][0],arr[23][6],arr[23][9],arr[23][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.tn').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[24][0],arr[24][6],arr[24][9],arr[24][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.tl').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[25][0],arr[25][6],arr[25][9],arr[25][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.tr').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[26][0],arr[26][6],arr[26][9],arr[26][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });   
+        $('.uk').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[27][0],arr[27][6],arr[27][9],arr[27][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.up').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[28][0],arr[28][6],arr[28][9],arr[28][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.wb').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[29][0],arr[29][6],arr[29][9],arr[29][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.ch').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[30][0],arr[30][6],arr[30][9],arr[30][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('.dl').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[31][0],arr[31][6],arr[31][9],arr[31][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });
+        $('#g4249').hover(function() {
+            if (pie!==null) {
+                pie.destroy();
+                pie = null;
+            }
+            display(arr[32][0],arr[32][6],arr[32][9],arr[32][3]);
+            },function() {
+                pie.destroy();
+                display(arr[37][0],arr[37][6],arr[37][9],arr[37][3]);
+        });   
+    });
+});
+</script>
+</body>
+</html>

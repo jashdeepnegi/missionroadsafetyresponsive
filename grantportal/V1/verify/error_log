@@ -1,0 +1,167 @@
+[16-Jun-2018 16:28:59 UTC] PHP Notice:  Undefined index: pername in /home/amarsrivastava5/public_html/grantportal/V1/verify/otp.php on line 20
+[16-Jun-2018 16:28:59 UTC] PHP Notice:  Undefined index: orgname in /home/amarsrivastava5/public_html/grantportal/V1/verify/otp.php on line 21
+[16-Jun-2018 16:28:59 UTC] PHP Notice:  Undefined index: orgregno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otp.php on line 22
+[16-Jun-2018 16:28:59 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otp.php on line 23
+[16-Jun-2018 16:28:59 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otp.php on line 24
+[16-Jun-2018 16:28:59 UTC] PHP Notice:  Undefined index: pass in /home/amarsrivastava5/public_html/grantportal/V1/verify/otp.php on line 25
+[16-Jun-2018 16:28:59 UTC] PHP Notice:  Undefined index: pass2 in /home/amarsrivastava5/public_html/grantportal/V1/verify/otp.php on line 26
+[16-Jun-2018 17:28:47 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 23
+[16-Jun-2018 17:28:47 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[16-Jun-2018 17:30:44 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 23
+[16-Jun-2018 17:30:44 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[16-Jun-2018 17:58:52 UTC] PHP Notice:  Undefined index: pername in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 20
+[16-Jun-2018 17:58:52 UTC] PHP Notice:  Undefined index: orgname in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 21
+[16-Jun-2018 17:58:52 UTC] PHP Notice:  Undefined index: orgregno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 22
+[16-Jun-2018 17:58:52 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 23
+[16-Jun-2018 17:58:52 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[16-Jun-2018 17:58:52 UTC] PHP Notice:  Undefined index: pass in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 25
+[16-Jun-2018 17:58:52 UTC] PHP Notice:  Undefined index: pass2 in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 26
+[16-Jun-2018 18:14:00 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 23
+[16-Jun-2018 18:14:00 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[17-Jun-2018 03:15:31 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[17-Jun-2018 03:52:24 UTC] PHP Notice:  Undefined index: pername in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 20
+[17-Jun-2018 03:52:24 UTC] PHP Notice:  Undefined index: orgname in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 21
+[17-Jun-2018 03:52:24 UTC] PHP Notice:  Undefined index: orgregno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 22
+[17-Jun-2018 03:52:24 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 23
+[17-Jun-2018 03:52:24 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[17-Jun-2018 03:52:24 UTC] PHP Notice:  Undefined index: pass in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 25
+[17-Jun-2018 03:52:24 UTC] PHP Notice:  Undefined index: pass2 in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 26
+[17-Jun-2018 03:53:17 UTC] PHP Notice:  Undefined index: pername in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 20
+[17-Jun-2018 03:53:17 UTC] PHP Notice:  Undefined index: orgname in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 21
+[17-Jun-2018 03:53:17 UTC] PHP Notice:  Undefined index: orgregno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 22
+[17-Jun-2018 03:53:17 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 23
+[17-Jun-2018 03:53:17 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[17-Jun-2018 03:53:17 UTC] PHP Notice:  Undefined index: pass in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 25
+[17-Jun-2018 03:53:17 UTC] PHP Notice:  Undefined index: pass2 in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 26
+[17-Jun-2018 03:53:19 UTC] PHP Notice:  Undefined index: pername in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 20
+[17-Jun-2018 03:53:19 UTC] PHP Notice:  Undefined index: orgname in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 21
+[17-Jun-2018 03:53:19 UTC] PHP Notice:  Undefined index: orgregno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 22
+[17-Jun-2018 03:53:19 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 23
+[17-Jun-2018 03:53:19 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[17-Jun-2018 03:53:19 UTC] PHP Notice:  Undefined index: pass in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 25
+[17-Jun-2018 03:53:19 UTC] PHP Notice:  Undefined index: pass2 in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 26
+[17-Jun-2018 03:53:20 UTC] PHP Notice:  Undefined index: pername in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 20
+[17-Jun-2018 03:53:20 UTC] PHP Notice:  Undefined index: orgname in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 21
+[17-Jun-2018 03:53:20 UTC] PHP Notice:  Undefined index: orgregno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 22
+[17-Jun-2018 03:53:20 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 23
+[17-Jun-2018 03:53:20 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[17-Jun-2018 03:53:20 UTC] PHP Notice:  Undefined index: pass in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 25
+[17-Jun-2018 03:53:20 UTC] PHP Notice:  Undefined index: pass2 in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 26
+[17-Jun-2018 03:59:46 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[17-Jun-2018 04:00:08 UTC] PHP Notice:  Undefined index: pername in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 20
+[17-Jun-2018 04:00:08 UTC] PHP Notice:  Undefined index: orgname in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 21
+[17-Jun-2018 04:00:08 UTC] PHP Notice:  Undefined index: orgregno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 22
+[17-Jun-2018 04:00:08 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 23
+[17-Jun-2018 04:00:08 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[17-Jun-2018 04:00:08 UTC] PHP Notice:  Undefined index: pass in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 25
+[17-Jun-2018 04:00:08 UTC] PHP Notice:  Undefined index: pass2 in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 26
+[17-Jun-2018 04:00:15 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[17-Jun-2018 04:02:00 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[17-Jun-2018 04:02:32 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[17-Jun-2018 06:20:32 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 26
+[17-Jun-2018 06:20:32 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 48
+[17-Jun-2018 11:50:33 Asia/Kolkata] PHP Notice:  Undefined variable: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 81
+[17-Jun-2018 11:50:33 Asia/Kolkata] PHP Notice:  Undefined variable: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 81
+[17-Jun-2018 06:21:03 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 26
+[17-Jun-2018 06:21:03 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 48
+[17-Jun-2018 11:51:04 Asia/Kolkata] PHP Notice:  Undefined variable: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 81
+[17-Jun-2018 11:51:04 Asia/Kolkata] PHP Notice:  Undefined variable: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 81
+[17-Jun-2018 06:26:07 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 26
+[17-Jun-2018 06:26:07 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 48
+[17-Jun-2018 11:56:09 Asia/Kolkata] PHP Notice:  Undefined variable: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 81
+[17-Jun-2018 11:56:09 Asia/Kolkata] PHP Notice:  Undefined variable: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 81
+[17-Jun-2018 07:17:35 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 26
+[17-Jun-2018 07:17:35 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 49
+[17-Jun-2018 12:47:37 Asia/Kolkata] PHP Notice:  Undefined variable: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 82
+[17-Jun-2018 12:47:37 Asia/Kolkata] PHP Notice:  Undefined variable: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 82
+[17-Jun-2018 07:18:43 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 27
+[17-Jun-2018 07:18:43 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 12:48:44 Asia/Kolkata] PHP Notice:  Undefined variable: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 83
+[17-Jun-2018 12:48:44 Asia/Kolkata] PHP Notice:  Undefined variable: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 83
+[17-Jun-2018 07:20:07 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 27
+[17-Jun-2018 07:20:07 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 12:50:08 Asia/Kolkata] PHP Notice:  Undefined variable: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 83
+[17-Jun-2018 12:50:08 Asia/Kolkata] PHP Notice:  Undefined variable: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 83
+[17-Jun-2018 07:20:52 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 27
+[17-Jun-2018 07:20:52 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 12:50:53 Asia/Kolkata] PHP Notice:  Undefined variable: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 83
+[17-Jun-2018 12:50:53 Asia/Kolkata] PHP Notice:  Undefined variable: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 83
+[17-Jun-2018 07:21:23 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 27
+[17-Jun-2018 07:21:23 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 12:51:24 Asia/Kolkata] PHP Notice:  Undefined variable: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 83
+[17-Jun-2018 12:51:24 Asia/Kolkata] PHP Notice:  Undefined variable: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 83
+[17-Jun-2018 07:21:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/amarsrivastava5/public_html/grantportal/V1/verify/verifystatus.php on line 92
+[17-Jun-2018 07:35:03 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 27
+[17-Jun-2018 07:35:03 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 13:05:04 Asia/Kolkata] PHP Notice:  Undefined variable: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 84
+[17-Jun-2018 13:05:04 Asia/Kolkata] PHP Notice:  Undefined variable: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 84
+[17-Jun-2018 07:35:20 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/amarsrivastava5/public_html/grantportal/V1/verify/verifystatus.php on line 76
+[17-Jun-2018 07:37:26 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 27
+[17-Jun-2018 07:37:26 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 13:07:27 Asia/Kolkata] PHP Notice:  Undefined variable: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 84
+[17-Jun-2018 13:07:27 Asia/Kolkata] PHP Notice:  Undefined variable: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 84
+[17-Jun-2018 07:38:23 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 27
+[17-Jun-2018 07:38:23 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 13:08:24 Asia/Kolkata] PHP Notice:  Undefined variable: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 84
+[17-Jun-2018 13:08:24 Asia/Kolkata] PHP Notice:  Undefined variable: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 84
+[17-Jun-2018 07:41:36 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 27
+[17-Jun-2018 07:41:36 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 13:11:37 Asia/Kolkata] PHP Notice:  Undefined variable: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 84
+[17-Jun-2018 13:11:37 Asia/Kolkata] PHP Notice:  Undefined variable: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 84
+[17-Jun-2018 07:41:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/amarsrivastava5/public_html/grantportal/V1/verify/verifystatus.php on line 26
+[17-Jun-2018 07:42:46 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 27
+[17-Jun-2018 07:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 13:12:47 Asia/Kolkata] PHP Notice:  Undefined variable: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 84
+[17-Jun-2018 13:12:47 Asia/Kolkata] PHP Notice:  Undefined variable: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 84
+[17-Jun-2018 07:54:29 UTC] PHP Notice:  Undefined index: email in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 27
+[17-Jun-2018 07:54:29 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 07:56:26 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 07:57:39 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 08:00:47 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 08:02:23 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 08:03:55 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 08:05:01 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 08:07:27 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 08:07:37 UTC] PHP Notice:  Undefined variable: mysqli in /home/amarsrivastava5/public_html/grantportal/V1/verify/verifystatus.php on line 42
+[17-Jun-2018 08:07:37 UTC] PHP Fatal error:  Call to a member function query() on null in /home/amarsrivastava5/public_html/grantportal/V1/verify/verifystatus.php on line 42
+[17-Jun-2018 08:08:50 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 08:09:14 UTC] PHP Notice:  Undefined index: otp in /home/amarsrivastava5/public_html/grantportal/V1/verify/verifystatus.php on line 22
+[17-Jun-2018 08:09:14 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/verifystatus.php on line 23
+[17-Jun-2018 08:09:18 UTC] PHP Notice:  Undefined index: otp in /home/amarsrivastava5/public_html/grantportal/V1/verify/verifystatus.php on line 22
+[17-Jun-2018 08:09:18 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/verifystatus.php on line 23
+[17-Jun-2018 08:10:41 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 08:14:48 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 08:19:40 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 33
+[17-Jun-2018 08:20:58 UTC] PHP Notice:  Trying to get property of non-object in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 50
+[17-Jun-2018 08:27:20 UTC] PHP Notice:  Undefined index: pername in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 21
+[17-Jun-2018 08:27:20 UTC] PHP Notice:  Undefined index: orgname in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 22
+[17-Jun-2018 08:27:20 UTC] PHP Notice:  Undefined index: orgregno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 23
+[17-Jun-2018 08:27:20 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[17-Jun-2018 08:27:20 UTC] PHP Notice:  Undefined index: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 27
+[17-Jun-2018 08:27:20 UTC] PHP Notice:  Undefined index: pass in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 29
+[17-Jun-2018 08:27:20 UTC] PHP Notice:  Undefined index: pass2 in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 30
+[17-Jun-2018 12:47:44 UTC] PHP Notice:  Undefined index: pername in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 21
+[17-Jun-2018 12:47:44 UTC] PHP Notice:  Undefined index: orgname in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 22
+[17-Jun-2018 12:47:44 UTC] PHP Notice:  Undefined index: orgregno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 23
+[17-Jun-2018 12:47:44 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[17-Jun-2018 12:47:44 UTC] PHP Notice:  Undefined index: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 27
+[17-Jun-2018 12:47:44 UTC] PHP Notice:  Undefined index: pass in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 29
+[17-Jun-2018 12:47:44 UTC] PHP Notice:  Undefined index: pass2 in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 30
+[18-Jun-2018 00:36:52 UTC] PHP Notice:  Undefined index: pername in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 21
+[18-Jun-2018 00:36:52 UTC] PHP Notice:  Undefined index: orgname in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 22
+[18-Jun-2018 00:36:52 UTC] PHP Notice:  Undefined index: orgregno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 23
+[18-Jun-2018 00:36:52 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[18-Jun-2018 00:36:52 UTC] PHP Notice:  Undefined index: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 27
+[18-Jun-2018 00:36:52 UTC] PHP Notice:  Undefined index: pass in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 29
+[18-Jun-2018 00:36:52 UTC] PHP Notice:  Undefined index: pass2 in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 30
+[20-Jun-2018 09:50:02 UTC] PHP Notice:  Undefined index: otp in /home/amarsrivastava5/public_html/grantportal/V1/verify/verifystatus.php on line 22
+[20-Jun-2018 09:50:02 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/verifystatus.php on line 23
+[20-Jun-2018 18:17:26 UTC] PHP Notice:  Undefined index: otp in /home/amarsrivastava5/public_html/grantportal/V1/verify/verifystatus.php on line 22
+[20-Jun-2018 18:17:26 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/verifystatus.php on line 23
+[06-Jul-2018 05:38:35 UTC] PHP Notice:  Undefined index: pername in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 21
+[06-Jul-2018 05:38:35 UTC] PHP Notice:  Undefined index: orgname in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 22
+[06-Jul-2018 05:38:35 UTC] PHP Notice:  Undefined index: orgregno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 23
+[06-Jul-2018 05:38:35 UTC] PHP Notice:  Undefined index: mobno in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 24
+[06-Jul-2018 05:38:35 UTC] PHP Notice:  Undefined index: emailid in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 27
+[06-Jul-2018 05:38:35 UTC] PHP Notice:  Undefined index: pass in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 29
+[06-Jul-2018 05:38:35 UTC] PHP Notice:  Undefined index: pass2 in /home/amarsrivastava5/public_html/grantportal/V1/verify/otpverification.php on line 30
